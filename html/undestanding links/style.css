@@ -1,0 +1,31 @@
+.header1 {
+  width: 100%;
+  text-align: center;
+}
+
+.link {
+  margin: 26px;
+  text-decoration: none;
+  border: 2px solid tomato;
+  padding: 16px;
+}
+
+.main {
+  margin-top: 100px;
+}
+
+.footer {
+  text-align: center;
+}
+
+.link2 {
+  color: black;
+}
+
+.link2:hover {
+  border: 2px solid red;
+}
+
+.link2:visited {
+  color: coral;
+}
