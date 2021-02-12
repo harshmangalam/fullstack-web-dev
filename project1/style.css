@@ -1,0 +1,90 @@
+body {
+  background-color: rgb(218, 207, 207);
+}
+
+.header {
+  background-image: url("https://images.unsplash.com/photo-1612892483236-52d32a0e0ac1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 32px 0px;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.logo {
+  font-size: 30px;
+  color: white;
+}
+
+.link {
+  text-decoration: none;
+  margin: 0px 8px;
+  color: white;
+  font-size: 24px;
+}
+
+.header-section {
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+
+.button1 {
+  padding: 12px;
+  background-color: azure;
+  color: chocolate;
+  font-weight: 800;
+  font-size: 18px;
+}
+
+.button1:focus {
+  background-color: red;
+  color: white;
+}
+
+.main {
+  margin: 32px 0px;
+}
+
+.section1 {
+  max-width: 900px;
+  margin: auto;
+  text-align: center;
+}
+
+.icon {
+  background-color: tomato;
+  padding: 8px;
+  border-radius: 100%;
+  color: white;
+}
+
+.box1 {
+  background-color: white;
+  width: 300px;
+  padding: 32px;
+  margin: 16px 8px;
+}
+
+.section2 {
+  text-align: center;
+  background-color: tomato;
+  padding: 32px;
+}
+
+
+.form-section{
+        max-width: 800px;
+        margin: auto;
+        margin-top: 32px;
+}
+
+

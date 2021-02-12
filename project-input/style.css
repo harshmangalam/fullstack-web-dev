@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+  background-color: tomato;
+  color: white;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.btn1 {
+  background-color: indigo;
+  color: white;
+  padding: 16px 8px;
+  width: 100%;
+}
+
+.form {
+  background-color: white;
+  padding: 32px;
+  margin-top: 32px;
+}
+
+.input {
+  width: 100%;
+  padding: 16px 0px;
+  margin: 8px 0px;
+}
+
+.btn2 {
+  background-color: green;
+  color: white;
+  padding: 16px 8px;
+  width: 100%;
+}
